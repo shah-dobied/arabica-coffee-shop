@@ -338,7 +338,8 @@ a {
 /* contact end */
 /* footer start */
 #footer .footer-top {
-    background: url("../imges/footer-bg.png");
+     background: red;
+    /* background: url("../imges/footer-bg.png"); */
     color: var(--bg-color);
 
 }
