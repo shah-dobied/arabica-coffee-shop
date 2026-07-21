@@ -338,7 +338,7 @@ a {
 /* contact end */
 /* footer start */
 #footer .footer-top {
-    /* background-image: url("../imges/footer-bg.png"); */
+    background-image: url("../imges/footer-bg.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
