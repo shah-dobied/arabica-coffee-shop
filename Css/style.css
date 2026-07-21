@@ -108,7 +108,7 @@ a {
 /* header end */
 /* home start */
 #home {
-    background: url(/imges/home-bg.png) center no-repeat;
+    background: url(../imges/home-bg.png) center no-repeat;
     background-size: 100%;
     background-color: var(--bg-color);
 }
