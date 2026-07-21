@@ -339,7 +339,7 @@ a {
 /* footer start */
 #footer .footer-top {
     background: url("imges/footer-bg.png");
-    color: #fff;
+    color: black;
 }
 
 #footer .footer-top .row {
