@@ -337,11 +337,11 @@ a {
 
 /* contact end */
 /* footer start */
-#footer .footer-top {\
+#footer .footer-top {
     background-image: url("../imges/footer-bg.png");
-    /* background-repeat: no-repeat; */
-    /* background-position: center; */
-    /* background-size: cover; */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
     color:#fff;
 }
 
